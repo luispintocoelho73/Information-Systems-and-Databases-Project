@@ -1,0 +1,44 @@
+--A
+output:
++----------------+
+|name            |
++----------------+
+|Bento Siqueira  |
+|Lia Castro      |
+|Lia Castro      |
+|Marciano Macedo |
+|Serafina Caetano|
++----------------+
+
+
+--B
+output:
++----------------+
+|name            |
++----------------+
+|Serafina Caetano|
++----------------+
+
+
+
+--C
+output:
++-------------+----------+----------+
+|locality_name|latitude  |longitude |
++-------------+----------+----------+
+|Santo Aleixo |389.213853|-74.186985|
+|Foros do Arra|391.748117|-82.469373|
+|Almeirim     |377.366132|-81.449714|
+|Almeirim     |418.158431|-85.864778|
++-------------+----------+----------+
+
+
+
+--D
+output:
++-------------+
+|locality_name|
++-------------+
+|Alvor        |
+|Almeirim     |
++-------------+
